@@ -34,7 +34,10 @@ An example dataset is provided in route_data_osmnx.csv.
 
 ## 2. Running the Model
 
-???
+Running the model can have different ways of doing depends on tools that you have. There are three ways, which is presented below:
+- If you using Colab as tool to run the model, just run the block of code from the top to bottom. Press the play button in each of the code blocks to run it.
+- If you using Jupyter Notebook as your tools, check the above panel and search for 'Run' button. It will run the the code continuously from above to bottom.
+- If you using local computer as your workflow. ???
 
 ## 3. Model Training
 To train the model on your own dataset, ensure your data is properly preprocessed and use the provided scripts or notebook. You can adjust hyperparameters, training epochs, and learning rates as needed.
